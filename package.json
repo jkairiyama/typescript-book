@@ -2,7 +2,7 @@
   "name": "typescript-book",
   "version": "1.0.0",
   "description": "Descripcion del package",
-  "main": "gulpfile.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jkairiyama/typescript-book#readme",
   "devDependencies": {
+    "gulp": "^4.0.2",
     "gulp-typescript": "^5.0.1"
   },
   "dependencies": {
