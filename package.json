@@ -1,0 +1,25 @@
+{
+  "name": "typescript-book",
+  "version": "1.0.0",
+  "description": "Descripcion del package",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkairiyama/typescript-book.git"
+  },
+  "author": "Jorge Kairiyama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkairiyama/typescript-book/issues"
+  },
+  "homepage": "https://github.com/jkairiyama/typescript-book#readme",
+  "devDependencies": {
+    "gulp-typescript": "^5.0.1"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
