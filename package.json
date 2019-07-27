@@ -18,9 +18,14 @@
   "homepage": "https://github.com/jkairiyama/typescript-book#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
-    "gulp-typescript": "^5.0.1"
+    "gulp-tslint": "^8.1.4",
+    "gulp-typescript": "^5.0.1",
+    "tslint": "^5.18.0",
+    "typescript": "^3.5.3"
   },
   "dependencies": {
+    "@types/angular": "^1.6.55",
+    "@types/jquery": "^3.3.30",
     "jquery": "^3.4.1"
   }
 }
